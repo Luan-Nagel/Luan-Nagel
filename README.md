@@ -1,12 +1,12 @@
-## Oi, eu sou Luan! :hand:
+## Oi, eu sou o Luan! :hand:
 
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Luan-Nagel)](https://github.com/Luan-Nagel)
+<!--[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Luan-Nagel)](https://github.com/Luan-Nagel)-->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-nagel-constante-54541b168/)](https://www.linkedin.com/in/luan-nagel-constante-54541b168/)
 [![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigo4635@gmail.com)](mailto:rodrigo4635@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/nagelconstante)](https://instagram.com/nagelconstante)
 
 ### :smile: Sobre
-Meu nome é Luan Nagel Constante. Sou Mestre em Engenharia de Automação e Sistemas e atuo como Desenvolvedor Web com React, React Native, Node e Firebase
+Meu nome é Luan Nagel Constante. Sou Mestre em Engenharia de Automação e Sistemas e atuo como Desenvolvedor Web com React, React Native, Node e Firebase.
 
 ### 🛠 &nbsp;Linguagens e ferramentas:
 
