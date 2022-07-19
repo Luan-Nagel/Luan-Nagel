@@ -41,7 +41,9 @@ Meu nome é Luan Nagel Constante. Sou Mestre em Engenharia de Automação e Sist
   <a href="https://www.gatsbyjs.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
   </a>
+  <!--
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
+  -->
 </p>
